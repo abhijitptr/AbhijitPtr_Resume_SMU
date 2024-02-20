@@ -27,7 +27,8 @@ MySQL, Oracle, MS Server, MongoDb, Sqlite
 ##Experience
 
 ### as a Faculty/Trainer
-
+Sr. Software Faculty in CMC, TCS iON, Workbuds.
+Guest Faculty/ Project Mentor in GMIT, TMIT, KITM,SEC & SSU.
 
 ### as a Web Developer
-
+Wordpess, Zoomla, Laravel, PHP, MERN, Django. 
