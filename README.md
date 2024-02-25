@@ -1,11 +1,11 @@
-#Abhijit Patra Resume
+# Abhijit Patra
 
-##Education
+## Education
 
 B.Sc Graduate from Calcutta University
 Diploma in Software Technology from CMC Ltd (a TATA Enterprise)
 
-##Skills
+## Skills
 
 ### Web Development
 
@@ -24,11 +24,11 @@ React Native
 ### Database
 MySQL, Oracle, MS Server, MongoDb, Sqlite
 
-##Experience
+## Experiences
 
-### as a Faculty/Trainer
+### As a Faculty/Trainer
 Sr. Software Faculty in CMC, TCS iON, Workbuds.
 Guest Faculty/ Project Mentor in GMIT, TMIT, KITM,SEC & SSU.
 
-### as a Web Developer
+### As a Web Developer
 Wordpess, Zoomla, Laravel, PHP, MERN, Django. 
