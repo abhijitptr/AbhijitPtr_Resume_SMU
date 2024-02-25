@@ -2,6 +2,7 @@
 
 ## Education
 
+Pursuing MCA from Sikkim Manipal University 
 B.Sc Graduate from Calcutta University
 Diploma in Software Technology from CMC Ltd (a TATA Enterprise)
 
