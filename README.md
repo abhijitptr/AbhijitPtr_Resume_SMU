@@ -1,5 +1,10 @@
 # Abhijit Patra
 
+## Contact
+
+### Mobile No. : 6290245957 / 9836688610
+### Email : abhijit.ptr@gmail.com
+
 ## Education
 
 Pursuing MCA from Sikkim Manipal University 
