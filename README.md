@@ -36,5 +36,13 @@ MySQL, Oracle, MS Server, MongoDb, Sqlite
 Sr. Software Faculty in CMC, TCS iON, Workbuds.
 Guest Faculty/ Project Mentor in GMIT, TMIT, KITM,SEC & SSU.
 
+### As a Corporate Trainer
+MS Project at Sureka Group
+
+MS Office & Advanced Excel at Sureka Group
+
+Advanced Excel at Voltus India Pvt Ltd
+
+
 ### As a Web Developer
 Wordpess, Zoomla, Laravel, PHP, MERN, Django. 
