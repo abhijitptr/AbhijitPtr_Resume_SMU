@@ -7,9 +7,9 @@
 
 ## Education
 
-Pursuing MCA from Sikkim Manipal University 
-B.Sc Graduate from Calcutta University
-Diploma in Software Technology from CMC Ltd (a TATA Enterprise)
+#### Pursuing MCA from Sikkim Manipal University 
+#### B.Sc Graduate from Calcutta University
+#### Diploma in Software Technology from CMC Ltd (a TATA Enterprise)
 
 ## Skills
 
@@ -24,8 +24,7 @@ HTML, CSS, Bootstrap,
 JavaScript, Jquery, Angular, Nodejs, Express
 
 ### Mobile App
-Android Java
-React Native
+Android Java, React Native
 
 ### Database
 MySQL, Oracle, MS Server, MongoDb, Sqlite
