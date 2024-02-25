@@ -2,14 +2,16 @@
 
 ## Contact
 
-### Mobile No. : 6290245957 / 9836688610
-### Email : abhijit.ptr@gmail.com
+### Mobile No. : 
+6290245957 / 9836688610
+### Email : 
+abhijit.ptr@gmail.com
 
 ## Education
 
-#### Pursuing MCA from Sikkim Manipal University 
-#### B.Sc Graduate from Calcutta University
-#### Diploma in Software Technology from CMC Ltd (a TATA Enterprise)
+Pursuing MCA from Sikkim Manipal University 
+B.Sc Graduate from Calcutta University
+Diploma in Software Technology from CMC Ltd (a TATA Enterprise)
 
 ## Skills
 
